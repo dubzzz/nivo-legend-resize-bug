@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/nivo-legend-resize-bug/build/static/js/main.794bdd55.chunk.js",
+    "main.js.map": "/nivo-legend-resize-bug/build/static/js/main.794bdd55.chunk.js.map",
+    "runtime-main.js": "/nivo-legend-resize-bug/build/static/js/runtime-main.486c8f8e.js",
+    "runtime-main.js.map": "/nivo-legend-resize-bug/build/static/js/runtime-main.486c8f8e.js.map",
+    "static/js/2.a33f4629.chunk.js": "/nivo-legend-resize-bug/build/static/js/2.a33f4629.chunk.js",
+    "static/js/2.a33f4629.chunk.js.map": "/nivo-legend-resize-bug/build/static/js/2.a33f4629.chunk.js.map",
+    "static/js/3.da1947eb.chunk.js": "/nivo-legend-resize-bug/build/static/js/3.da1947eb.chunk.js",
+    "static/js/3.da1947eb.chunk.js.map": "/nivo-legend-resize-bug/build/static/js/3.da1947eb.chunk.js.map",
+    "index.html": "/nivo-legend-resize-bug/build/index.html",
+    "static/js/2.a33f4629.chunk.js.LICENSE.txt": "/nivo-legend-resize-bug/build/static/js/2.a33f4629.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.486c8f8e.js",
+    "static/js/2.a33f4629.chunk.js",
+    "static/js/main.794bdd55.chunk.js"
+  ]
+}
