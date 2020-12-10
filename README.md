@@ -10,4 +10,8 @@ In the attached reproduction scenario, whenever resizing the windows, the chart 
 
 In development bundle - _`yarn start`_ - everything works properly. Try dev mode version at: https://2zjxx.csb.app/ ([codesandbox](https://codesandbox.io/s/fervent-chaum-2zjxx?file=/src/App.js))
 
+![No bug with dev mode](./nivo-dev.gif)
+
 In production bundle - _`yarn build && npm serve -s build`_ - when resizing the chart is properly resized but the legend does not follow. Try prod version at: https://dubzzz.github.io/nivo-legend-resize-bug/build/
+
+![Bug with prod mode](./nivo-prod.gif)
